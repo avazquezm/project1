@@ -1,4 +1,4 @@
 # project1
 Git project for educational purposes
 ....
-Nueva local
+Escribiendo en local lineas 
