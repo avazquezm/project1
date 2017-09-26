@@ -1,4 +1,5 @@
 # project1
 Git project for educational purposes
 ....
-Nueva local
+Mis lineas del repositorio remoto
+!!!!
